@@ -133,6 +133,18 @@ HLT
 ## Output 
 ![NOT](https://github.com/user-attachments/assets/61b29c59-da2e-4bb8-9187-36a1213caed9)
 
+
+## AND alp
+```
+MOV AL,33H
+MOV BL,44H
+AND AL,BL
+HLT
+```
+
+## Output
+![image](https://github.com/user-attachments/assets/5f84ff3a-49ab-4d41-aa2d-4895c637ecb3)
+
 ## OR alp
 ```
 MOV AL, 78H
